@@ -18,6 +18,6 @@ Additional experiment repositories will be added as they become available.
 
 Each experiment repository is independently licensed. Please refer to the `LICENSE` file in the respective repository.
 
-Unless otherwise stated, original materials developed by Ignytion IO are released under the **Apache License 2.0**.
+Unless otherwise stated, original materials developed by Ignytion IO for crucible learning lab are released under the **Apache License 2.0**.
 
 Copyright 2026 Ignytion IO Private Limited.
