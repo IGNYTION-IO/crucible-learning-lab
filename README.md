@@ -7,7 +7,7 @@ A collection of open silicon-design experiments and learning resources for stude
 | Domain          | Repository                                                             | Description                                                         |
 | --------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Digital Design  | [digital-design](https://github.com/CRUCIBLE-WORKBENCH/digital-design) | Digital logic, RTL design, simulation, and verification experiments |
-| Analog Design   | Coming soon                                                            | Analog circuit design and simulation experiments                    |
+| Analog Design   | [Coming soon](https://github.com/CRUCIBLE-WORKBENCH/analog-design)                                                            | Analog circuit design and simulation experiments                    |
 | FPGA Design     | Coming soon                                                            | FPGA implementation and prototyping experiments                     |
 | RISC-V and SoC  | Coming soon                                                            | Processor, peripheral, and system-on-chip experiments               |
 | Physical Design | Coming soon                                                            | Synthesis, placement, routing, and open-PDK experiments             |
